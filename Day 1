@@ -1,0 +1,19 @@
+WHY python: python is a popular programming language known for its simplicity, readability and versatility.
+
+print statement:
+    print("python in 30 days")
+    output: python in 30 days
+
+variables:
+    a = "chandu"
+    print(a)
+    output: chandu
+
+Taking input from user:
+    a = input("enter your name")
+    print(" your name is " + a)
+    output: 
+      enter your name: chandu
+      your name is chandu
+
+
